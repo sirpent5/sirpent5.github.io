@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is my boring part of the page!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Maybe some ides:
+    - what ive been learning
+    - Album a day?
