@@ -8,7 +8,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ---
 
-### This is mt first post
+### Hey guys i just wanted to teach u how to push c:)
 
 #### Some T-SQL Code
 
